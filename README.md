@@ -16,15 +16,15 @@
 
 * * *
 
-## About [≪](#read-me)
+## About [≪](#folio-read-me)
 
 This is a starter repo.
 
-### Who [≪](#read-me)
+### Who [≪](#folio-read-me)
 
 Your Mom's blank repo.
 
-### What [≪](#read-me)
+### What [≪](#folio-read-me)
 
 Blank repo.
 
@@ -34,29 +34,29 @@ Blank repo.
     -   [ ] D
 -   [ ] E
 
-### Where [≪](#read-me)
+### Where [≪](#folio-read-me)
 
 Blank
 
-### Why [≪](#read-me)
+### Why [≪](#folio-read-me)
 
 Blank
 
-### How [≪](#read-me)
+### How [≪](#folio-read-me)
 
 * * *
 
-## Notes [≪](#read-me)
+## Notes [≪](#folio-read-me)
 
-### Note 1 [≪](#read-me)
+### Note 1 [≪](#folio-read-me)
 
-### Note 2 [≪](#read-me)
+### Note 2 [≪](#folio-read-me)
 
 * * *
 
-## Appendix [≪](#read-me)
+## Appendix [≪](#folio-read-me)
 
-### .gitattributes [≪](#read-me)
+### .gitattributes [≪](#folio-read-me)
 
 > Git attribute data also allows you to do some interesting things when exporting an archive of your project.
 
@@ -70,13 +70,13 @@ codesniffer.ruleset.xml export-ignore
 
 <https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes#Exporting-Your-Repository>
 
-### .gitignore [≪](#read-me)
+### .gitignore [≪](#folio-read-me)
 
-### .exclude [≪](#read-me)
+### .exclude [≪](#folio-read-me)
 
 * * *
 
-### Credits [≪](#read-me)
+### Credits [≪](#folio-read-me)
 
 Third party resources applied in this repo. Each resource uses a GPL compatible license. The resources are listed according to each individual license, as noted, and have links where applicable.
 
