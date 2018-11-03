@@ -1,12 +1,8 @@
-theme:             jekyll-theme-hacker
+title: This is a Page Name
+description: This is a Tagline
+google_analytics:
+show_downloads: true
+# theme: jekyll-theme-hacker
 
-# title:             [The title of your site]
-# description:       [A short description of your site's purpose]
-
-# google_analytics:  [Your Google Analytics tracking ID]
-
-sass:
-    load_paths:
-        - _sass
-        - node_modules
-    # style: compressed
+plugins:
+  - jekyll-mentions
