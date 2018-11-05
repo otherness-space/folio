@@ -74,3 +74,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+################################################
+# npm_modules.gitignore dependency directories #
+################################################
+
+node_modules/
